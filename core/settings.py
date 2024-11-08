@@ -22,8 +22,6 @@ DJANGO_APPS=[
 ]
 LOCAL_APPS = [
     'general',
-    'payment',
-    'scraper',
 ]
 THIRD_PARTY_APPS = [
     'rest_framework',
